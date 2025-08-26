@@ -1,2 +1,2 @@
-# agendacamerata
-projeto desenvolvido na matéria de APS
+# Agenda da Camerata
+Projeto desenvolvido na matéria de APS
